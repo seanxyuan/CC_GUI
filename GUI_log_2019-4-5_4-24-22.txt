@@ -1,0 +1,63 @@
+activate_Motors
+activate_Motors
+activate_Motors
+#2 kill
+motor[2].Pos=0
+#8 kill
+motor[8].Pos=0
+#7 kill
+motor[7].Pos=0
+#1 kill
+#4 kill
+motor[1].Pos=0
+motor[4].Pos=0
+Layer Printing
+enable plc plc2
+Layer Printing
+enable plc plc2
+Layer Printing
+enable plc homingy
+Layer Printing
+enable plc homingy
+activate_Motors
+Layer Printing
+enable plc plc3
+#1 #8 #7 J/ &1 B6 r
+Layer Printing
+enable plc plc2
+Layer Printing
+enable plc plc2
+#1 j-
+activate_Motors
+#1 j-
+#1 j-
+#1 j-
+#1 j-
+#1 j-
+#1 j-
+#1 j-
+#1 j-
+#1 j-
+#1 j-
+#1 j-
+#1 j-
+#1 j-
+#1 j-
+#1 j-
+#1 j-
+#1 j+
+#1 j+
+#1 j+
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors

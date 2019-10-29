@@ -1,0 +1,35 @@
+activate_Motors
+#8 j-
+#8 j/
+#8 j-
+#8 j/
+#1 j-
+#1 j/
+#8 kill
+motor[8].Pos=0
+activate_Motors
+#8 j/
+#8 j-
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+#8 j-
+#8 j/
+motor[1].JogSpeed = motor[1].JogSpeed + 10
+motor[4].JogSpeed = motor[4].JogSpeed + 10
+motor[1].JogSpeed = motor[1].JogSpeed + 10
+motor[4].JogSpeed = motor[4].JogSpeed + 10
+motor[1].JogSpeed = motor[1].JogSpeed + 10
+motor[4].JogSpeed = motor[4].JogSpeed + 10
+motor[1].JogSpeed = motor[1].JogSpeed + 10
+motor[4].JogSpeed = motor[4].JogSpeed + 10
+motor[1].JogSpeed = motor[1].JogSpeed + 10
+motor[4].JogSpeed = motor[4].JogSpeed + 10
+#8 j/
+#8 j-
+#8 j/
+#1 j-

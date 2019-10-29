@@ -1,0 +1,14 @@
+activate_Motors
+Layer Printing
+enable plc plc3
+Layer Printing
+enable plc plc2
+#1 j-
+#1 j-
+activate_Motors
+activate_Motors
+#1 j/
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors

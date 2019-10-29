@@ -1,0 +1,50 @@
+activate_Motors
+activate_Motors
+#8 j-
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+#8 j/
+#1 j-
+#1 j/
+Layer Printing
+enable plc homingx
+Layer Printing
+enable plc homingy
+Layer Printing
+enable plc plc3
+#7 kill
+motor[7].Pos=0
+#7 kill
+motor[7].Pos=0
+#7 kill
+motor[7].Pos=0
+#7 kill
+motor[7].Pos=0
+#7 kill
+motor[7].Pos=0
+activate_Motors
+#7 kill
+motor[7].Pos=0
+#7 kill
+motor[7].Pos=0
+#7 kill
+motor[7].Pos=0
+#7 kill
+motor[7].Pos=0
+#7 j^227.5
+#7 j^227.5
+#7 j^227.5
+#7 j^227.5
+#7 j^227.5
+#7 j^-227.5
+#7 j^-227.5
+#7 kill
+motor[7].Pos=0
+#7 kill
+motor[7].Pos=0
+#7 kill
+motor[7].Pos=0
+#7 kill
+motor[7].Pos=0
+activate_Motors
+#1 #8 #7 J/ &1 B6 r

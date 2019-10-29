@@ -1,0 +1,17 @@
+activate_Motors
+activate_Motors
+motor[1].JogSpeed = motor[1].JogSpeed - 10
+motor[4].JogSpeed = motor[4].JogSpeed - 10
+motor[1].JogSpeed = motor[1].JogSpeed - 10
+motor[4].JogSpeed = motor[4].JogSpeed - 10
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors
+#8 j-
+#8 j/
+#8 j-
+#8 j/
+activate_Motors
+activate_Motors
+activate_Motors

@@ -1,0 +1,19 @@
+motor[1].JogSpeed = motor[1].JogSpeed - 10
+motor[4].JogSpeed = motor[4].JogSpeed - 10
+motor[1].JogSpeed = motor[1].JogSpeed - 10
+motor[4].JogSpeed = motor[4].JogSpeed - 10
+motor[1].JogSpeed = motor[1].JogSpeed - 10
+motor[4].JogSpeed = motor[4].JogSpeed - 10
+motor[1].JogSpeed = motor[1].JogSpeed - 10
+motor[4].JogSpeed = motor[4].JogSpeed - 10
+motor[1].JogSpeed = motor[1].JogSpeed - 10
+motor[4].JogSpeed = motor[4].JogSpeed - 10
+motor[1].JogSpeed = motor[1].JogSpeed - 10
+motor[4].JogSpeed = motor[4].JogSpeed - 10
+motor[1].JogSpeed = motor[1].JogSpeed - 10
+motor[4].JogSpeed = motor[4].JogSpeed - 10
+motor[1].JogSpeed = motor[1].JogSpeed - 10
+motor[4].JogSpeed = motor[4].JogSpeed - 10
+motor[1].JogSpeed = motor[1].JogSpeed - 10
+motor[4].JogSpeed = motor[4].JogSpeed - 10
+activate_Motors

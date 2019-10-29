@@ -1,0 +1,7 @@
+sys=1
+pump=1
+pump=0
+sys=0
+wet=0
+pump=0
+doser=0

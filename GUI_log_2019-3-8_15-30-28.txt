@@ -1,0 +1,5 @@
+activate_Motors
+#8 kill
+motor[8].Pos=0
+activate_Motors
+activate_Motors

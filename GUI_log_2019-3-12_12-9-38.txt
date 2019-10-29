@@ -1,0 +1,9 @@
+activate_Motors
+activate_Motors
+#2 kill
+motor[2].Pos=0
+#1 #8 #7 J/ &1 B5 r
+activate_Motors
+Layer Printing
+enable plc plc3
+activate_Motors

@@ -1,0 +1,23 @@
+Layer Printing
+enable plc homingx
+activate_Motors
+Layer Printing
+enable plc homingx
+Layer Printing
+enable plc plc3
+activate_Motors
+#1 #8 #7 J/ &1 B6 r
+Layer Printing
+enable plc plc3
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors
+activate_Motors
+Layer Printing
+enable plc plc2
+activate_Motors
+activate_Motors

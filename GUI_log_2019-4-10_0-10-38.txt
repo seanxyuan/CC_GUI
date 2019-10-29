@@ -1,0 +1,43 @@
+activate_Motors
+#8 j+
+#8 j/
+#8 j-
+#8 j/
+Layer Printing
+enable plc homingy
+Layer Printing
+enable plc homingx
+activate_Motors
+Layer Printing
+enable plc plc3
+activate_Motors
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+#1 #8 #7 J/ &1 B6 r
+activate_Motors
+Layer Printing
+enable plc plc2

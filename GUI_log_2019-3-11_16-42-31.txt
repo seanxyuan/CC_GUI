@@ -1,0 +1,14 @@
+#7 j^-227.5
+#7 j^-227.5
+#7 j^227.5
+#7 j^227.5
+#7 j^-227.5
+#7 j^-227.5
+#7 kill
+motor[7].Pos=0
+#2 kill
+motor[2].Pos=0
+activate_Motors
+#2 kill
+motor[2].Pos=0
+#2 kill

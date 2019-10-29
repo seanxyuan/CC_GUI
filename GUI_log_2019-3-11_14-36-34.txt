@@ -1,0 +1,13 @@
+activate_Motors
+activate_Motors
+activate_Motors
+#1 kill
+#4 kill
+motor[1].Pos=0
+motor[4].Pos=0
+activate_Motors
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+activate_Motors
+#2 kill
+motor[2].Pos=0

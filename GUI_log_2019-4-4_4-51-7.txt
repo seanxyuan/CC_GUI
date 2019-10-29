@@ -1,0 +1,54 @@
+activate_Motors
+#7 j^227.5
+#7 j^227.5
+#7 j^227.5
+#7 j^227.5
+#7 j^227.5
+#7 j^227.5
+#7 j^227.5
+#7 j^227.5
+#7 j^227.5
+#7 j^227.5
+#7 j^227.5
+#2 kill
+motor[2].Pos=0
+#2 kill
+motor[2].Pos=0
+#2 kill
+motor[2].Pos=0
+#2 kill
+motor[2].Pos=0
+#2 j+
+#2 kill
+#2 kill
+motor[2].Pos=0
+Layer Printing
+enable plc homingz
+Layer Printing
+enable plc homingy
+activate_Motors
+Layer Printing
+enable plc homingy
+#8 j/
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j-
+#8 j/
+Layer Printing
+enable plc homingy

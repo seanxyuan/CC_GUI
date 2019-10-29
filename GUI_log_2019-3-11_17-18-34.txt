@@ -1,0 +1,76 @@
+#8 j+
+#8 j/
+#8 j-
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+#8 j-
+#8 j/
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+#2 kill
+motor[2].Pos=0
+#8 j+
+#8 j/
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+#8 j+
+#8 j/
+#1 j-
+#1 j/
+#7 j^-227.5
+#7 j^-227.5
+#7 j^-227.5
+#7 j^-227.5
+#7 j^-227.5
+#7 j^-227.5
+#7 j^-227.5
+#7 kill
+motor[7].Pos=0
+#8 j/
+#8 j-
+#8 j/
+#8 j-
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+#8 j-
+#8 j/
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+#8 j+
+activate_Motors
+activate_Motors
+activate_Motors
+#2 j+
+#2 kill
+#2 j+
+#2 kill
+activate_Motors
+#2 j-
+#2 kill
+#8 j+
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+motor[8].JogSpeed = motor[8].JogSpeed + 10
+#8 j+
+#8 j/
+activate_Motors
+#8 j+
+#8 j/
+activate_Motors
+#8 j-
+#8 j/
+#1 j-
+#1 j/

@@ -1,0 +1,6 @@
+activate_Motors
+Layer Printing
+enable plc plc3
+#1 #8 #7 J/ &1 B4 r
+Layer Printing
+enable plc plc2

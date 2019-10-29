@@ -1,0 +1,7 @@
+activate_Motors
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+motor[8].JogSpeed = motor[8].JogSpeed - 10
+activate_Motors
+Layer Printing
+enable plc plc3
